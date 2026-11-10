@@ -1,0 +1,70 @@
+[
+  {
+    "id": "captains-chronic",
+    "name": "Captain's Chronic",
+    "type": "Explore the High C ☠️⛵",
+    "description_short": "Answer the call of the currents. Defy convention. Find your legend at sea. Explore the High C.",
+    "description_long": "Chart your own course with Captain’s Chronic. A clothing line inspired by fearless mariners, relentless explorers, and the untamed freedom of the open ocean. Every piece captures the spirit of adventure with maritime icons, vintage map prints, compass details, and a hint of rebellious edge.<br /><br />From statement tees and cozy hoodies to laid-back tanks and sweatshirts, our collection is made for everyone. Captain’s Chronic is for those who refuse to stay anchored, crave new horizons, and live life on their own terms.",
+    "theme": "theme-captains-chronic",
+    "image": "assets/captains-chronic.png",
+    "store_url": "https://shop.smokedex.com/search?q=captain%27s+chronic",
+    "retailers": [
+      {
+        "name": "Velvet Fog Cannabis",
+        "location": "Marin, CA",
+        "link": "https://velvetfogcannabis.com/"
+      }
+    ]
+  },
+  {
+    "id": "triple-moon",
+    "name": "Triple Moon Clothing",
+    "type": "Celebrate Every Phase 🌙🌙🌙",
+    "description_short": "Wear what moves you. Embrace every version of yourself. Shine through the night and day.",
+    "description_long": "Step into your power and express your unique journey with our triple moon clothing collection. From cozy tees and hoodies to stylish tanks and sweatshirts, every piece features the iconic triple moon symbol, representing growth, wholeness, and renewal. Whether you’re drawn to lunar 'energy, live by the cycles, or just love the celestial look, our styles are made for everyone. Designed with comfort, inclusivity, and authenticity in mind, this is clothing for all identities and every phase.",
+    "theme": "theme-triple-moon",
+    "image": "assets/triple-moon.png",
+    "store_url": "https://shop.smokedex.com/search?q=triple+moon",
+    "retailers": [
+      {
+        "name": "Velvet Fog Cannabis",
+        "location": "Marin, CA",
+        "link": "https://velvetfogcannabis.com/"
+      }
+    ]
+  },
+  {
+    "id": "astroflora",
+    "name": "AstroFlora Retro",
+    "type": "Gear Up for Cosmic Adventures 🚀🌌",
+    "description_short": "Rock the retro future. Shine like a supernova. Dress cosmic, feel limitless.",
+    "description_long": "Step into a universe of bold color and retro cool with AstroFlora! Inspired by the electric vibes of the 80’s and the endless wonder of outer space, our clothing line features neon galaxies, pixel stars, and throwback cosmic graphics made for every identity.<br /><br />From vintage-style tees and space-bright hoodies to tanks and sweatshirts with galactic flair, each piece is designed for all. The only label is your own. Whether you chart your path by the stars or just want to blast off in style, AstroFlora takes your wardrobe to another dimension.",
+    "theme": "theme-astroflora",
+    "image": "assets/astroflora.png",
+    "store_url": "https://shop.smokedex.com/search?q=astroflora",
+    "retailers": [
+      {
+        "name": "Velvet Fog Cannabis",
+        "location": "Marin, CA",
+        "link": "https://velvetfogcannabis.com/"
+      }
+    ]
+  },
+  {
+    "id": "neptune",
+    "name": "Neptune Clothing",
+    "type": "Dive Into Myth and Mystery 🌊🔱",
+    "description_short": "Embrace the tides. Live the legend. Dress oceanic, feel unstoppable.",
+    "description_long": "Unleash your inner explorer with Neptune Clothing. Inspired by the powerful tides, swirling ocean depths, and the legendary Greek god of the sea, our collection fuses ancient myth with modern style. Picture waves, tridents, timeless symbols, and subtle nods to legends. Each piece rooted in the spirit of adventure and the magic of the deep.<br /><br />From breezy tees and cozy hoodies to versatile tanks and sweatshirts, Neptune Clothing is for everyone. Whether you’re drawn to the mysteries under the surface, Greek lore, or simply love making a splash with your style, you’ll find your place in Neptune’s realm.",
+    "theme": "theme-neptune",
+    "image": "assets/neptune.png",
+    "store_url": "https://shop.smokedex.com/search?q=neptune",
+    "retailers": [
+      {
+        "name": "Velvet Fog Cannabis",
+        "location": "Marin, CA",
+        "link": "https://velvetfogcannabis.com/"
+      }
+    ]
+  }
+]

@@ -1,0 +1,39 @@
+SmokeDex Brand Onboarding Questionnaire
+Welcome to SmokeDex! We're excited to feature your brand. Please fill out the following questionnaire completely to ensure we have all the assets needed to build your feature on SmokeDex.com.
+Section 1: Brand Identity
+Brand Name:
+(The official name of your brand as it should appear on the site.)
+Brand Type / Category:
+(A short category description, e.g., "Streetwear/Apparel", "Mystical/Astrological", "80s Retro/Synthwave".)
+Section 2: Website Copy
+Homepage Description (Short):
+(A brief, one-sentence description for your brand card on our main page scroller. Keep it punchy!)
+Brand Page Description (Detailed):
+(2-3 paragraphs for your dedicated brand landing page. This is your chance to tell your story, describe your vibe, and connect with the community.)
+Section 3: Graphics & Visuals
+Brand Logo/Sprite:
+Please provide your primary brand logo or a representative graphic.
+Format: PNG with a transparent background is required.
+Dimensions: Please provide a square image, minimum of 500x500 pixels.
+(Attach the file to your email response.)
+Color Palette:
+Please provide the HTML HEX codes for your brand's primary colors. This will be used for borders, links, and text highlights.
+Primary Color (e.g., #F92A82): _________
+Secondary/Text Color (e.g., #FFFFFF): _________
+Section 4: Links
+Online Store URL:
+(The direct link to your Shopify store or the specific collection you want to feature.)
+In-Person Retailers:
+(List any physical stores where customers can buy your merchandise. Please provide the store name, its location, and a hyperlink if available.)
+Example:
+Store Name: Velvet Fog Cannabis
+Location: Miami, FL
+Link (Optional): https://velvetfogcannabis.com/ 
+Your Retailers:
+Store 1: Name: __________, Location: __________, Link: __________
+Store 2: Name: __________, Location: __________, Link: __________
+Store 3: Name: __________, Location: __________, Link: __________
+(Add more as needed)
+Thank you for providing this information! We'll be in touch shortly with a preview of your feature.
+Best,
+The SmokeDex Team
